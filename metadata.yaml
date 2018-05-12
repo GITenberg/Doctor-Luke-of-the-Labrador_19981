@@ -1,0 +1,28 @@
+_repo: Doctor-Luke-of-the-Labrador_19981
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Duncan, Norman
+    birthdate: 1871
+    deathdate: 1916
+    gutenberg_agent_id: '9008'
+    url: http://www.gutenberg.org/2009/agents/9008
+    wikipedia: http://en.wikipedia.org/wiki/Norman_Duncan
+description: Novel set in Labrador.
+gutenberg_issued: '2006-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19981'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Labrador (N.L.) -- Fiction'
+- !lcsh 'Physicians -- Fiction'
+title: Doctor Luke of the Labrador
+url: http://www.gutenberg.org/ebooks/19981
